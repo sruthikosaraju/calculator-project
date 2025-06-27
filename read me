@@ -1,0 +1,18 @@
+This is a simple calculator program written in Python that runs in the terminal. 
+It helps the user do basic math operations like adding, subtracting, multiplying, and dividing numbers.
+👉 The program uses functions — small sections of code that do a job:
+add: adds two numbers.
+subtract: subtracts one number from another.
+multiply: multiplies two numbers.
+divide: divides one number by another.
+👉 It uses variables to store values the user gives:
+num1 stores the first number.
+num2 stores the next number.
+answer stores the result of the calculation.
+👉 The program shows symbols (+, -, *, /) and asks the user to choose an operation.
+👉 After calculating, it asks:
+Do you want to keep calculating with the current result? (The user types y for yes)
+Or do you want to start a new calculation? (The user types n for no)
+👉 This is done using a choice variable where the user types y or n.
+👉 The program uses a loop — this means it keeps running again and again until the user chooses to stop or start fresh.
+👉 To make the output fun, the program prints a calculator picture (ASCII art).
